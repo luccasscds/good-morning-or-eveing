@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background: black;
+    color: white;
+}
+
+#hora {
+    font-family: 'Goldman', cursive;
+    font-size: 4rem;
+}
